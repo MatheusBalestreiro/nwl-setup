@@ -20,4 +20,5 @@ Aqui você pode conferir um pouco do design do Habit, para conferir o projeto no
 
 ## Web - Habit Example
 ![Habitis Web](./docs/assets/Habit.png)
+.
 
