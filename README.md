@@ -19,7 +19,7 @@ Aqui você pode conferir um pouco do design do Habit, para conferir o projeto no
 ![Habitis Web](./docs/assets/New-Habit.png)
 
 ## Web - Habit Example
-![Habitis Web](./docs/assets/Habit.png) .
+![Habitis Web](./docs/assets/Habit.png) 
 
 
 
